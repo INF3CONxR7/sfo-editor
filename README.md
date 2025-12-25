@@ -1,5 +1,5 @@
 <h1 align='center'>SFO Editor</h1>
-<p align='center'>Écrit par <b>LMAN</b> © 2015 • <a href='https://sites.google.com/site/theleecherman'>Site officiel</a></p>
+<p align='center'>Écrit par <b>LMAN</b> © 2015 • </p>
 
 **SFO Editor** permet de **créer** et **modifier** des fichiers **PARAM.SFO / SFX** rapidement (“à la volée”), via une **interface graphique** ou en **ligne de commande** à partir d’un fichier **XML**.
 
