@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<paramsfo padding="1">
+  <param key="APP_VER" fmt="utf8" max_len="8">01.01</param>
+  <param key="ATTRIBUTE" fmt="int32" max_len="4">1</param>
+  <param key="CATEGORY" fmt="utf8" max_len="4">PG</param>
+  <param key="DISC_ID" fmt="utf8" max_len="16">NPUG00000</param>
+  <param key="DISC_VERSION" fmt="utf8" max_len="8">1.00</param>
+  <param key="PARENTAL_LEVEL" fmt="int32" max_len="4">0</param>
+  <param key="PBOOT_TITLE" fmt="utf8" max_len="128">PBOOT.PBP SFO Template</param>
+  <param key="PSP_SYSTEM_VER" fmt="utf8" max_len="8">6.60</param>
+  <param key="REGION" fmt="int32" max_len="4">32768</param>
+  <param key="TITLE" fmt="utf8" max_len="128">PBOOT.PBP SFO Template</param>
+  <param key="USE_USB" fmt="int32" max_len="4">0</param>
+</paramsfo>

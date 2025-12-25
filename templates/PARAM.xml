@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<paramsfo padding="3">
+  <param key="BOOTABLE" fmt="int32" max_len="4">0</param>
+  <param key="CATEGORY" fmt="utf8" max_len="4">MG</param>
+  <param key="DISC_ID" fmt="utf8" max_len="16">PARAM.PBP SFO Template</param>
+  <param key="DISC_VERSION" fmt="utf8" max_len="8">1.00</param>
+  <param key="PARENTAL_LEVEL" fmt="int32" max_len="4">3</param>
+  <param key="PSP_SYSTEM_VER" fmt="utf8" max_len="8">6.60</param>
+  <param key="REGION" fmt="int32" max_len="4">32768</param>
+  <param key="TITLE" fmt="utf8" max_len="128">PARAM.PBP SFO Template</param>
+  <param key="USE_USB" fmt="int32" max_len="4">0</param>
+</paramsfo>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<paramsfo padding="4">
+  <param key="APP_VER" fmt="utf8" max_len="8">01.00</param>
+  <param key="ATTRIBUTE" fmt="int32" max_len="4">3</param>
+  <param key="BOOTABLE" fmt="int32" max_len="4">1</param>
+  <param key="CATEGORY" fmt="utf8" max_len="4">MN</param>
+  <param key="PARENTAL_LEVEL" fmt="int32" max_len="4">0</param>
+  <param key="PS3_SYSTEM_VER" fmt="utf8" max_len="8">03.0000</param>
+  <param key="TITLE" fmt="utf8" max_len="128">PSP to PS3 SFO Template</param>
+  <param key="TITLE_ID" fmt="utf8" max_len="16">PSPP00000</param>
+  <param key="VERSION" fmt="utf8" max_len="8">01.00</param>
+</paramsfo>
